@@ -301,7 +301,6 @@ exit
 @echo You will need to logoff your computer and log back in
 @echo for settings to take effect. Press any key to continue.
 @echo your computer will automatically log you off.
-@echo Thank You.
 pause > nul
 @echo.
 logoff.exe
