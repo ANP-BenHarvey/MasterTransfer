@@ -1,10 +1,5 @@
 @Echo off
 COLOR 0A
-@echo.
-
-@echo Script Created By: Chad Reich
-@echo Script Version: 2.0.0.2
-@echo.
 
 @ECHO OFF
 CLS
